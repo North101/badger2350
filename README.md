@@ -42,3 +42,5 @@ The regular builds just include the firmware, and leave your files alone:
 3. Drag and drop one of the `badger2040w` .uf2 files to the "RPI-RP2" drive that appears.
 
 4. Your device should reset and, if you used a `with-badger-os` variant, show the Badger OS Launcher.
+
+test
